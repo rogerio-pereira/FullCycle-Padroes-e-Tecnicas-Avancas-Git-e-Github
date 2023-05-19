@@ -1,3 +1,4 @@
 *.js @rogerio-pereira
 .github/* @rogerio-pereira
-*.php @rogerio-pereira @team-backend
+*.php @rogerio-pereira 
+#you can also tag teams, not only users 
